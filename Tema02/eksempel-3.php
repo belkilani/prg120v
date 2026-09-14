@@ -13,7 +13,7 @@
     {
       print("Du har svart j p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
-  else if ($svar == "n") 
+  else if ($svar == "n" or $svar == "no" or $svar == "nei") 
     {
       print("Du har svart n p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
