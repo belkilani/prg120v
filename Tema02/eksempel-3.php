@@ -9,7 +9,7 @@
     {
       print("Du har ikke svart p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
-  else if ($svar == "j" or $svar == "ja" $svar == "yes")  
+  else if ($svar == "j" or $svar == "ja" or $svar == "yes")  
     {
       print("Du har svart j p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
